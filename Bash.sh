@@ -18,7 +18,7 @@ $ gpg ./pgp_keys.asc
 
 $ gpg --import ./pgp_keys.asc
 $ gpg --verify manifest-v0.5.2-beta.txt.sig
-> gpg: Good signature from "Olaoluwa Osuntokun <laolu32@gmail.com>" [unknown]
+> gpg: Good signature from " seriki yakub <kubule.kl@gmail.com>" [unknown]
 > Primary key fingerprint: BD59 9672 C804 AF27 7086  9A04 8B80 CD2B B8BD 8132
 >      Subkey fingerprint: F803 7E70 C12C 7A26 3C03  2508 CE58 F7F8 E20F D9A2
 
